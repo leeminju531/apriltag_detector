@@ -11,7 +11,7 @@ AprilTag_ros detector node on ROS
 - Tag : write tag frame name you want detect  
               
 - WorkerThread : worker threads check tf buffer whether tag frame exist or not
-                 basically, more describe tag you wanna detect ,increase worker thread number  
+                 basically,the more tags you wanna detect ,please increase worker thread number  
              __default : 4__  
      
 
